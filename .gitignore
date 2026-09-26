@@ -1,0 +1,28 @@
+# Environment variables / secrets
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Build output (if you have any)
+dist/
+build/
+
+# Uploaded files / temp (if your app stores uploads locally)
+uploads/
+tmp/
